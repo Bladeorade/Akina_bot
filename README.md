@@ -5,6 +5,8 @@ Akina Nakamori discord bot
 
 * you will need to insert your own auth token, as well as giphy client token in order to use the gif command.
 
+![insert_shot](https://user-images.githubusercontent.com/122578356/212209092-e1cb14fc-e686-4155-a084-b764f739c483.png)
+
 * use ;akina help for command menu
 
 * help command in use
